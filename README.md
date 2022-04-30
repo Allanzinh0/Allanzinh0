@@ -9,7 +9,7 @@
 ### I'm Web and Software Developer
  - 🔭 I'm currently working on a [OS made from scratch][simple_os]!
  - 🌱 I’m currently learning everything
- - 🥅 2022 Goals: Learn more about C++
+ - 🥅 2022 Goals: Learn more about C++ and OpenGL
  - 💬 Ask me about anything
 
 ### Languages:
